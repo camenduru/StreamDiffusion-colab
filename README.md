@@ -13,6 +13,7 @@
 https://github.com/cumulo-autumn/StreamDiffusion
 
 ### 🖼 Output
+![Screenshot 2023-12-22 024956](https://github.com/camenduru/StreamDiffusion-colab/assets/54370274/75f77f26-d5c7-4de1-9281-5befe1617893)
 
 ### 🏢 Sponsor
 https://modelslab.com
