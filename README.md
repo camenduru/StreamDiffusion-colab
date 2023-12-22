@@ -7,6 +7,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/StreamDiffusion-colab/blob/main/StreamDiffusion_colab.ipynb) | StreamDiffusion_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/StreamDiffusion-colab/blob/main/StreamDiffusion_gradio_colab.ipynb) | StreamDiffusion_gradio_colab
 
 ### 🧬 Code
 https://github.com/cumulo-autumn/StreamDiffusion
